@@ -1,0 +1,3 @@
+Django==6.1.2
+ChatterBot==1.2.15
+# Also needed once: python -m spacy download en_core_web_sm
